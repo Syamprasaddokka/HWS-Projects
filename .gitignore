@@ -1,0 +1,7 @@
+# Ignore build stuff and macOS trash
+**/build/
+**/DerivedData/
+**/.DS_Store
+**/*.xcuserstate
+**/*.xcworkspace
+**/*.xcuserdata/
